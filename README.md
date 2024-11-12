@@ -22,15 +22,5 @@ A new column was created (Grade) to classify the exam  scores and to summarize t
 A visualization dashboard was created  showing  the various factors  and how it affect the overall academic performance of the students![image](https://github.com/user-attachments/assets/748444a0-cc88-421d-ae3a-0c5d6fa5628d)
 
 
-REQUIREMENT GATHERING
-The  dataset  was provided by The Ministry of Education to analyze the patterns and factors that affect the performance of students across public and private schools.
-
-DATA CLEANING
- The datasets was cleaned using Microsoft Excel by removing the empty row, errors, erasing unnecessary spaces and use proper case to change the cases.
-
-3.  DATA MODELLING
-A new column was created (Grade) to classify the exam  scores and to summarize the exam scores.  Assigning “A” for student above  70, “B” for students that scores between 60 and 70, “C” for students that scores between 50 and 60, “D” for students that score  below 50.
-                             
-4. DATA ANALYSIS                                                                               
-A visualization dashboard was created  showing  the various factors  and how it affect the overall academic performance of the students![image](https://github.com/user-attachments/assets/89221e47-6150-4ea6-a52f-05e203ecab27)
+![Screenshot 2024-11-12 144726](https://github.com/user-attachments/assets/f592db13-a717-4cfa-acb6-307ecf3212f5)
 
